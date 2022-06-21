@@ -24,7 +24,7 @@ MarkupSafe==1.0
 matplotlib==2.2.3
 more-itertools==4.3.0
 mysql-connector==2.1.6
-numpy==1.15.1
+numpy==1.22.0
 pandas==0.23.4
 pluggy==0.7.1
 psycopg2==2.7.6.1
