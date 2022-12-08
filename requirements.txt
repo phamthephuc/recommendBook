@@ -3,7 +3,7 @@ asn1crypto==0.24.0
 atomicwrites==1.2.1
 attrs==18.2.0
 beautifulsoup4==4.6.3
-certifi==2018.8.24
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 chromedriver-binary==2.41.0
